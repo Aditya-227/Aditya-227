@@ -113,7 +113,8 @@
 🤯 [AI Copilot for E-Commerce Returns](#)  
 > Natural Language → SQL + Visualization tool for Myntra managers.  
 **Tech:** LLM, LangChain, SQL, Streamlit  
-<img src="https://media.giphy.com/media/Q8xuJjjVj9xrK/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="400"/>
+
 
 
 ---
