@@ -104,7 +104,8 @@
 🌐 [Interactive Data Dashboard](#)  
 > Created a web dashboard to visualize project metrics dynamically.  
 **Tech:** Flask, Plotly, Power BI Embed  
-<img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTQxbnJkbXMwYWQ0YWt1aGE1N2N0dmN3d3lkZ3Y2cmxjODl1OGRlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif)" width="400"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTQxbnJkbXMwYWQ0YWt1aGE1N2N0dmN3d3lkZ3Y2cmxjODl1OGRlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif" width="400"/>
+
 
 ---
 
@@ -112,7 +113,7 @@
 🤯 [AI Copilot for E-Commerce Returns](#)  
 > Natural Language → SQL + Visualization tool for Myntra managers.  
 **Tech:** LLM, LangChain, SQL, Streamlit  
-<img src="[https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVkamNncHRzeHpoM205NTY1dWg5Z2Qya3c3Yzdxb2VrNjR1dG5vYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif)" width="400"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVkamNncHRzeHpoM205NTY1dWg5Z2Qya3c3Yzdxb2VrNjR1dG5vYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="400"/>
 
 ---
 
