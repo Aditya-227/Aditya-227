@@ -131,7 +131,7 @@
 | Hive & HBase Practice | Big Data | May 2025 |
 | Google Cloud Track | Cloud | 2024 |
 
-<img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/MPlIz3ODIGyktYmjfl/giphy.gif" width="250"/>
 
 </div>
 
