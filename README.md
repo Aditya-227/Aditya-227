@@ -88,7 +88,8 @@
 🧠 [Student Performance Predictor](#)  
 > Built regression model predicting academic performance from socio-economic data.  
 **Tech:** Python, Scikit-learn, Matplotlib  
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/wOVI5wW1cSzWfU0rLj/giphy.gif" width="400"/>
+
 
 ---
 
@@ -96,7 +97,8 @@
 ☁️ [Big Data Cluster Practice](#)  
 > Managed large datasets using Hive, HBase on Hadoop Ecosystem.  
 **Tech:** Hive, Hadoop, Spark  
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400"/>
+
 
 ---
 
@@ -104,7 +106,8 @@
 🌐 [Interactive Data Dashboard](#)  
 > Created a web dashboard to visualize project metrics dynamically.  
 **Tech:** Flask, Plotly, Power BI Embed  
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTQxbnJkbXMwYWQ0YWt1aGE1N2N0dmN3d3lkZ3Y2cmxjODl1OGRlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" width="400"/>
+
 
 
 ---
